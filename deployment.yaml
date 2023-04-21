@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: 20.228.182.157:80/onlyvictory/onlyvictoryimg:0.01
+        image: redbluemoon8/rlaalswjd:nginx-img-onyvic
         ports:
         - containerPort: 80
 
