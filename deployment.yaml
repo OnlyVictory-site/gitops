@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: yihoeun/onlyvictoryimg:33
+        image: yihoeun/onlyvictoryimg:34
         ports:
         - containerPort: 80
 
